@@ -1,0 +1,12 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.jld
+
+.DS_Store
+docs/build/
+docs/site/
+
+*.txt
+gplus
+.ipynb_checkpoints
